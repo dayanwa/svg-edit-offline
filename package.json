@@ -1,0 +1,10 @@
+{
+	"name":"svg edit",
+	"window":{
+		"icon":"svg-edit-2.7/images/logo.png",
+		"width":800,
+		"height":600,
+		"toolbar":false
+	},
+	"main":"svg-edit-2.7/svg-editor.html"
+}
